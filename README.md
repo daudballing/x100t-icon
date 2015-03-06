@@ -1,5 +1,5 @@
 # x100t icon
-Here is a Fujifilm icon set suitable for the x100 series.
+Here is a Fujifilm icon set suitable for the x100 series (look in the png-folder for the icons).
 
 The png icon sizes are completely random, so you might want to get them all and get rid of any unwanted sizes. 
 
