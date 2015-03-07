@@ -1,4 +1,4 @@
-# x100t icon
+# x100t icon ![Fujifilm Icon](https://github.com/daudballing/x100t-icon/blob/master/png/grey/x100t-icon-grey-115x69.png)
 Here is a Fujifilm icon set suitable for the x100 series (look in the png-folder for the icons)
 
 The png icon sizes are completely random, so you might want to get them all and get rid of any unwanted sizes
