@@ -13,4 +13,5 @@ Feel free to use this on your personal site, commercial site or any other site y
 
 This is not an official Fujifilm icon set
 
-If you want to give thanks go say 'hi' on ![Instagram](https://instagram.com/daudballing/) or at ![Twitter](https://twitter.com/daudballing)
+If you want to give thanks go say 'hi' on [Instagram](https://instagram.com/daudballing/) or at [Twitter](https://twitter.com/daudballing)
+
